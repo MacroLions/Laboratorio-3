@@ -1,0 +1,8 @@
+table{
+    margin: 0 auto;
+}
+
+tr>td{
+    background: black;
+    padding:40px;
+}
