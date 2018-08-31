@@ -25,10 +25,11 @@ tr:nth-child(even)>td:nth-child(odd){
 
 tr>td{
     padding: 50px;
+    align-content: center;
 }
 
 tr>td>p{
-    text-align: center;
+    
     margin: 0%;
     padding: 0;
     width: 0;
