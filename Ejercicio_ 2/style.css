@@ -2,7 +2,35 @@ table{
     margin: 0 auto;
 }
 
-tr>td{
+tr:nth-child(odd)>td:nth-child(even){
     background: black;
-    padding:40px;
+}
+
+tr:nth-child(odd)>td:nth-child(odd){
+    background-color: white;
+
+
+}
+
+
+tr:nth-child(even)>td:nth-child(even){
+    background:white;
+
+}
+
+tr:nth-child(even)>td:nth-child(odd){
+    background-color:black;
+
+}
+
+tr>td{
+    padding: 50px;
+}
+
+tr>td>p{
+    text-align: center;
+    margin: 0%;
+    padding: 0;
+    width: 0;
+    height: 0;
 }
