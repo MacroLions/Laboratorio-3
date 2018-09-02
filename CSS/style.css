@@ -5,6 +5,13 @@ body{
 H1,div,h2{
     background-color: black;
 }
+hr{
+    height: 20px;
+    color: black;
+    background-color: black;
+    width: 70em;
+    border: 0;
+}
 .primero{
     background-color: #f16e95;
     color:#ffff;
