@@ -1,0 +1,40 @@
+body{
+    background-image: url("background.jpg");
+    color: white;
+}
+H1,div,h2{
+    background-color: black;
+}
+.primero{
+    background-color: #f16e95;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.segundo{
+    background-color: #ffff;
+    color:#000000;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.tercero{
+    background-color: #ebcfd3;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.merlin{
+    margin: 0 auto;
+}
