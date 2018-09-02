@@ -1,3 +1,6 @@
+/*
+  Tamaños
+*/
 .normal{
     background-color: #f4f3f2;
     color:#6f6f6f;
@@ -18,7 +21,6 @@
     text-transform:uppercase;
 }
 
-
 .big{
     background-color: #f4f3f2;
     color:#6f6f6f;
@@ -29,6 +31,10 @@
     text-transform:uppercase;
 }
 
+
+/*
+  Colores
+*/
 .esmeralda{
     background-color: #57d68d;
     color:#ffff;
@@ -89,6 +95,10 @@
     text-transform:uppercase;
 }
 
+
+/*
+  Bordeado
+*/
 .simple{
     background: 0;
     border-color: #8a7e8a;
@@ -155,6 +165,50 @@
     color:#eb6f62;
     border-radius: 7px;
     font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+/*
+  Combinaciones
+*/
+.longAsfalto{
+    background-color: #5c6d7e;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.cieloBorde{
+    background: 0;
+    border-color: #5cace2;
+    color: #5cace2;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.littleEsmeralda{
+    background-color: #57d68d;
+    color: #ffffff;
+    border-radius: 7px;
+    font-size: 10px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.bigRubiborde{
+    text-transform:uppercase;
+    background: 0;
+    border-color: #eb6f62;
+    color:#eb6f62;
+    border-radius: 7px;
+    font-size: 20px;
     padding: 0.5em 1em;
     text-transform:uppercase;
 }
