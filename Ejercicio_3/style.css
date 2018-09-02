@@ -1,0 +1,160 @@
+.normal{
+    background-color: #f4f3f2;
+    color:#6f6f6f;
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.little{
+    background-color: #f4f3f2;
+    color:#6f6f6f;
+    border-radius: 7px;
+    font-size: 10px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+
+.big{
+    background-color: #f4f3f2;
+    color:#6f6f6f;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.esmeralda{
+    background-color: #57d68d;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.cielo{
+    background-color: #5cace2;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.amatista{
+    background-color: #ae7ac4;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.asfalto{
+    background-color: #5c6d7e;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.topazio{
+    background-color: #ea974e;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.rubi{
+    background-color: #eb6f62;
+    color:#ffff;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    border: 0;
+    text-transform:uppercase;
+}
+
+.simple{
+    background: 0;
+    border-color: #8a7e8a;
+    color:#8a7e8a;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.esmeralda2{
+    background: 0;
+    border-color: #57d68d;
+    color:#57d68d;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.cielo2{
+    background: 0;
+    border-color: #5cace2;
+    color: #5cace2;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.amatista2{
+    background: 0;
+    border-color: #ae7ac4;
+    color:#ae7ac4;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.asfalto2{
+    background: 0;
+    border-color: #5c6d7e;
+    color:#5c6d7e;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.topazio2{
+    background: 0;
+    border-color: #ea974e;
+    color:#ea974e;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
+
+.rubi2{
+    background: 0;
+    border-color: #eb6f62;
+    color:#eb6f62;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0.5em 1em;
+    text-transform:uppercase;
+}
